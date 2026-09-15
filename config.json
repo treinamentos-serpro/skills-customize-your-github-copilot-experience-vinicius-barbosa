@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "task-tracker-sqlite",
+      "title": "Task Tracker with SQLite and FastAPI",
+      "description": "Build a small task management API with FastAPI, store data in SQLite, and practice persistence and CRUD operations",
+      "path": "assignments/task-tracker-sqlite",
+      "dueDate": "2026-09-22",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
